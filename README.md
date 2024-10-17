@@ -5,7 +5,7 @@ I am currently an M.S. student in Computational Social Science at UC San Diego, 
 I am currently working on:
 
 - Using large language models to glean insights as to how humans process language
-- 
+  
 - Exploring methods to improve variability in automatic speech recognition models
 <!--
 **rdestaci/rdestaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
