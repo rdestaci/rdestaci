@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Reeka! 👋
 
+I am currently an M.S. student in Computational Social Science at UC San Diego, interested in diversifying voices in NLP technologies.
 <!--
 **rdestaci/rdestaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
