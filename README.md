@@ -1,12 +1,12 @@
 ## Hi there, I'm Reeka! 👋
 
-I am currently an M.S. student in Computational Social Science at UC San Diego, interested in diversifying voices in NLP technologies.
+I am currently an M.S. student in Computational Social Science at UC San Diego, passionate in diversifying voices in NLP technologies.
 
 I am currently working on:
 
 - Using large language models to glean insights into human language processing
   
-- Exploring methods to improve variability in automatic speech recognition models
+- Exploring methods to advance diversity in automatic speech recognition models
 <!--
 **rdestaci/rdestaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
