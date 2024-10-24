@@ -7,6 +7,8 @@ I am currently working on:
 - Assessing large language models on capturing human language processing patterns
   
 - Exploring methods to advance diversity in automatic speech recognition models
+
+How to reach me: reekaestacio9@gmail.com
 <!--
 **rdestaci/rdestaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
