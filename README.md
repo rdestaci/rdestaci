@@ -4,7 +4,7 @@ I am currently an M.S. student in Computational Social Science at UC San Diego, 
 
 I am currently working on:
 
-- Using large language models to glean insights into human language processing
+- Assessing large language models on capturing human language processing patterns
   
 - Exploring methods to advance diversity in automatic speech recognition models
 <!--
