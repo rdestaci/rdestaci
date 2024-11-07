@@ -1,6 +1,6 @@
 ## Hi there, I'm Reeka! 👋
 
-I am currently an M.S. student in Computational Social Science at UC San Diego, passionate in diversifying voices in NLP technologies.
+I am currently an M.S. student in Computational Social Science at UC San Diego, passionate about diversifying voices in NLP technologies.
 
 I am currently working on:
 
