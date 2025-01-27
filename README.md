@@ -10,9 +10,9 @@ I am from San Diego, California, born and raised in Chula Vista. I have a B.S. i
 ---
 ### I am currently working on...
 
-- Assessing large language model performance on capturing known patterns in human language processing
+- Assessing large language model performance on capturing patterns in human language processing
   
-- Exploring methods to advance diversity in automatic speech recognition models
+- Exploring methods to advance diversity in automatic speech recognition (ASR) models
 
 ---
 ### Want to reach me?
