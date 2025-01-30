@@ -7,12 +7,14 @@ I am currently an M.S. student in Computational Social Science at UC San Diego, 
 
 I am from San Diego, California, born and raised in Chula Vista. I have a B.S. in Cognitive Science (with specialization in Language and Culture) and a B.A. in Linguistics (with specialization in Cognition and Language). In my free time I enjoy junk journaling, baking bread, and watching live jazz.
 
+I'm passionate about expanding my knowledge in **natural language processing (NLP)**, **automatic speech recognition (ASR)**, **text-to-speech (TTS)**, **LLMs**, and **computational phonetics**. I am deeply motivated by the potential of NLP technology in supporting individuals with learning differences, including ASD, ADHD, and dyslexia.
+
 ---
 ### I am currently working on...
-
-- Assessing large language model performance on capturing patterns in human language processing
   
-- Exploring methods to advance diversity in automatic speech recognition (ASR) models
+- Applying computational methods to advance diversity in automatic speech recognition (ASR) models.
+
+- Exploring neural network-based techniques to enhance cutting-edge text-to-speech (TTS) technology.
 
 ---
 ### Want to reach me?
